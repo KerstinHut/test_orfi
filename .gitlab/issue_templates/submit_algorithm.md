@@ -1,0 +1,1 @@
+To submit your algorithm, please fill out the following information in the yaml format. Please be as precise and concise as possible. Optional information is marked by a #. If you want to include that information, please remove the # (otherwise it will be commented out in the data file) and fill in a value. Incomplete forms may not be published.

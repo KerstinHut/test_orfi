@@ -12,6 +12,8 @@ gem "jekyll", "~> 4.2.1"
 gem "minima", "~> 2.5"
 gem 'jekyll-theme-cayman', '~> 0.2.0'
 gem 'alembic-jekyll-theme', '~> 4.1'
+
+gem 'jquery-datatables'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
