@@ -33,6 +33,8 @@ gitlab_username: kk
 theme: minima
 plugins:
   - jekyll-feed
+  - jquery-datatables
+  - jquery
  
 
 # Exclude from processing.
