@@ -22,7 +22,7 @@ title: Open Resources for Imaging
 email: kerstin.heinecke@ptb.de
 description: >- # this means to ignore newlines until "baseurl:"
   This webpage collects open resources for medical imaging:
-  algorithm and data repositories. Please contribute at (openresourcesforimaging)[https://gitlab1.ptb.de/kk/openresourcesforimaging]
+  algorithm and data repositories. Please contribute at gitlab1.ptb.de/kk/openresourcesforimaging.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "pages.gitlab.io/openresourcesforimaging" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -30,11 +30,12 @@ github_username:
 gitlab_username: kk 
 
 # Build settings
-theme: minima
+theme: minima #l-mistakes-jekyll
 plugins:
   - jekyll-feed
-  - jquery-datatables
-  - jquery
+  # - jekyll-include-cache 
+  # - jquery-datatables
+  # - jquery
  
 
 # Exclude from processing.
